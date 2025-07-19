@@ -3,7 +3,7 @@
 My full name is `Dong Thanh Khoa`, but my friends often call me `Khoa Dong`.
 
 - 🎓 I'm studying at HCM University of Technology.
-- 🌱 I’m currently an **Embedded SW Engineer** at [Ban Vien Corporation](https://banvien.com).
+- 🌱 I’m currently an **Embedded Software Engineer** at [Ban Vien Corporation](https://banvien.com).
 
 <h4 align="left">Languages</h4>
 <p><a target="_blank" rel="noreferrer"> 
