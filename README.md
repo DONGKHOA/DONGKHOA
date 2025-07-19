@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-My full name is `Dong Thanh Khoa`, but my friends often call me `Khoa DOng`.
+My full name is `Dong Thanh Khoa`, but my friends often call me `Khoa Dong`.
 
 - 🎓 I'm studying at HCM University of Technology.
 - 🌱 I’m currently an **Embedded SW Engineer** at [Ban Vien Corporation](https://banvien.com).
